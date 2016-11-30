@@ -37,7 +37,7 @@
 </addon>
 
 <addon id="plugin.video.MaXoFloWCinEsteno"
-       name="[COLOR yellow]MaXoFloWCinEsteno[/COLOR]"
+       name="[COLOR red]MaXoFloWCinEsteno[/COLOR]"
        version="1.0"
        provider-name="MaXoFloW.CoM">
   <requires>
