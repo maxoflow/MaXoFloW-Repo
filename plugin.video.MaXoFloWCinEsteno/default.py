@@ -34,7 +34,7 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        return response
    https_response = http_response
        
-Base = 'https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Accion-01.txt' #    modificar("la ruta de tus listas")
+Base = 'https://raw.githubusercontent.com/maxoflow/WebXML/master/MaXoFloW-Addon.txt' #    modificar("la ruta de tus listas")
 
 addon = xbmcaddon.Addon('plugin.video.MaXoFloWCinEsteno') #    modificar("el nombre de tu addons")
 addon_version = addon.getAddonInfo('version')    #    modificar("la version de tu addons")
