@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.MaXoFloW" name="MaXoFloW Repo" version="1.0" provider-name="MaXoFloW.CoM">
+    <addon id="repository.MaXoFloW" name="MaXoFloW Repo" version="1.0.1" provider-name="MaXoFloW.CoM">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>

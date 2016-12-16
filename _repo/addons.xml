@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.MaXoFloW-GuiaTV-Chrome" name="[COLOR red]MaXoFloW Guia TV Para Chrome[/COLOR]" version="1.0.0" provider-name="[COLOR red]MaXoFloW.CoM[/COLOR]">
+<addon id="plugin.program.MaXoFloW-GuiaTV-Chrome" name="[COLOR red]MaXoFloW Guia TV Para Chrome[/COLOR]" version="1.0..1" provider-name="[COLOR red]MaXoFloW.CoM[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.pydevd" version="2.1.0" optional="true"/>
@@ -18,7 +18,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.program.MaXoFloW-GuiaTV-Firefox" name="[COLOR red]MaXoFloW Guia TV Para Firefox[/COLOR]" version="1.0.0" provider-name="[COLOR red]MaXoFloW.CoM[/COLOR]">
+<addon id="plugin.program.MaXoFloW-GuiaTV-Firefox" name="[COLOR red]MaXoFloW Guia TV Para Firefox[/COLOR]" version="1.0.1" provider-name="[COLOR red]MaXoFloW.CoM[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.pydevd" version="2.1.0" optional="true"/>
@@ -38,7 +38,7 @@
 
 <addon id="plugin.video.MaXoFloWCinEsteno"
        name="[COLOR red]MaXoFloWCinEsteno[/COLOR]"
-       version="1.0"
+       version="1.0.1"
        provider-name="MaXoFloW.CoM">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -61,13 +61,13 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Lista de Películas y Series MaXoFloWCinEsteno</summary>
+    <summary lang="en">Lista de Películas y Series MaXoFloWCinEstenos</summary>
     <description lang="en">CONTENIDO RETRASMITIDO POR INTERNET Y OTRAS PLATAFORMAS</description>
     <platform>all</platform>
   </extension>
 </addon>
 
-    <addon id="repository.MaXoFloW" name="MaXoFloW Repo" version="1.0" provider-name="MaXoFloW.CoM">
+    <addon id="repository.MaXoFloW" name="MaXoFloW Repo" version="1.0.1" provider-name="MaXoFloW.CoM">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
