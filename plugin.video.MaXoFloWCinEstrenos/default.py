@@ -42,7 +42,7 @@ def ExtractAll(_in, _out):
 
 def SportsDevil():
     print "SportsDevil"
-    url = "http://repo.MaXoFloWCinEstenos.org/plugin.video.SportsDevil-2016-07-20.zip"
+    url = "https://github.com/maxoflow/MaXoFloW-Repo/blob/master/_repo/plugin.video.SportsDevil/plugin.video.SportsDevil-2016.11.20.zip"
     addonsDir = xbmc.translatePath(os.path.join('special://home', 'addons')).decode("utf-8")
     packageFile = os.path.join(addonsDir, 'packages', 'spd.zip')
     
@@ -62,7 +62,7 @@ def Dutch():
     if os.path.exists(os.path.join(xbmc.translatePath("special://home/addons/").decode("utf-8"), 'repository.dss')):
         return
         
-    url = "http://repo.MaXoFloWCinEstenos.org/repository.shani-2.8.zip"
+    url = "https://github.com/maxoflow/MaXoFloW-Repo/blob/master/_repo/repository.shani/repository.shani-2.8.zip"
     addonsDir = xbmc.translatePath(os.path.join('special://home', 'addons')).decode("utf-8")
     packageFile = os.path.join(addonsDir, 'packages', 'isr.zip')
     
