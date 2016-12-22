@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.MaXoFloWCinEstenos"
-       name="[COLOR white].MaXoFloWCinEstenos[/COLOR]"
+<addon id="plugin.video.MaXoFloWCinEstrenos"
+       name="[COLOR white].MaXoFloWCinEstrenos[/COLOR]"
        version="1.0.2"
        provider-name="MaXoFloW.CoM">
   <requires>
@@ -22,7 +22,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Lista de Películas y Series MaXoFloWCinEstenos</summary>
+    <summary>Lista de Películas y Series MaXoFloWCinEstrenos</summary>
     <description>CONTENIDO RETRASMITIDO POR INTERNET Y OTRAS PLATAFORMAS.</description>
     <platform>all</platform>
   </extension>

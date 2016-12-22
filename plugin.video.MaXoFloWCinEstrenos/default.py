@@ -124,7 +124,7 @@ if REMOTE_DBG:
         sys.exit(1)
 
 
-addon = xbmcaddon.Addon('plugin.video.MaXoFloWCinEstenos')
+addon = xbmcaddon.Addon('plugin.video.MaXoFloWCinEstrenos')
 addon_version = addon.getAddonInfo('version')
 profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
 home = xbmc.translatePath(addon.getAddonInfo('path').decode('utf-8'))
@@ -149,7 +149,7 @@ SOURCES = [{"url": "https://raw.githubusercontent.com/maxoflow/WebXML/master/MaX
 
 def addon_log(string):
     if debug == 'true':
-        xbmc.log("[addon.MaXoFloWCinEstenos-%s]: %s" %(addon_version, string))
+        xbmc.log("[addon.MaXoFloWCinEstrenos-%s]: %s" %(addon_version, string))
 
 
 def makeRequest(url, headers=None):
