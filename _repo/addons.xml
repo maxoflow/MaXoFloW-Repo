@@ -68,7 +68,7 @@
 </addon>
 
 <addon id="plugin.video.MaXoFloWCinEstrenos"
-       name="[COLOR white].MaXoFloWCinEstrenos[/COLOR]"
+       name="[COLOR white]MaXoFloWCinEstrenos[/COLOR]"
        version="1.0.2"
        provider-name="MaXoFloW.CoM">
   <requires>
